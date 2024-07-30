@@ -1,6 +1,6 @@
 # Land Cover Classification Data Augmentation
 
-This project involves the augmentation and analysis of land cover classification data. It includes scripts for processing satellite images, visualizing changes in land cover over time, and evaluating model performance. 
+This project involves the augmentation and analysis of land cover classification data. It includes scripts for processing images, visualizing changes in land cover over time, and evaluating model performance. 
 
 ## Project Overview
 
