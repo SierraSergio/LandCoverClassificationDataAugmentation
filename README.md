@@ -19,13 +19,15 @@ This repository contains scripts for:
 - `auxiliary/`: Helper scripts for various auxiliary tasks like evolution analysis and change detection.
 - `.idea/`: IDE-specific configuration files (usually not necessary for version control).
 
+## Requirements
+
+To run this project, you need to install first:
+
+- `mmsegmentation`: This library is used for training and inferring models in this project. It provides tools for semantic segmentation.(https://github.com/open-mmlab/mmsegmentation)
+
 ## References
 
-- @misc{mmseg2020,
-    title={{MMSegmentation}: OpenMMLab Semantic Segmentation Toolbox and Benchmark},
-    author={MMSegmentation Contributors},
-    howpublished = {\url{https://github.com/open-mmlab/mmsegmentation}},
-    year={2020}
-  }
+- [MMSegmentation: OpenMMLab Semantic Segmentation Toolbox and Benchmark](https://github.com/open-mmlab/mmsegmentation) by MMSegmentation Contributors (2020)
+
 
 
