@@ -17,7 +17,6 @@ This repository contains scripts for:
 - `Inference/`: Scripts for running inference with trained models.
 - `Train/`: Training scripts for model training.
 - `auxiliary/`: Helper scripts for various auxiliary tasks like evolution analysis and change detection.
-- `.idea/`: IDE-specific configuration files (usually not necessary for version control).
 
 ## Requirements
 
