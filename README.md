@@ -19,11 +19,13 @@ This repository contains scripts for:
 - `auxiliary/`: Helper scripts for various auxiliary tasks like evolution analysis and change detection.
 - `.idea/`: IDE-specific configuration files (usually not necessary for version control).
 
-@misc{mmseg2020,
+## References
+
+- @misc{mmseg2020,
     title={{MMSegmentation}: OpenMMLab Semantic Segmentation Toolbox and Benchmark},
     author={MMSegmentation Contributors},
     howpublished = {\url{https://github.com/open-mmlab/mmsegmentation}},
     year={2020}
-}
+  }
 
 
